@@ -1,0 +1,11 @@
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\bin\Debug\net9.0\IPT102LasawangDomain.deps.json
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\bin\Debug\net9.0\IPT102LasawangDomain.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\bin\Debug\net9.0\IPT102LasawangDomain.pdb
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.AssemblyInfoInputs.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.AssemblyInfo.cs
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.csproj.CoreCompileInputs.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\refint\IPT102LasawangDomain.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\IPT102LasawangDomain.pdb
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangDomain\obj\Debug\net9.0\ref\IPT102LasawangDomain.dll

@@ -1,0 +1,10 @@
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\bin\Debug\IPT102LasawangData.dacpac
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\bin\Debug\IPT102LasawangData.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\bin\Debug\IPT102LasawangData.pdb
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\IPT102LasawangData.sqlproj.AssemblyReference.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\Model.xml
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\refactor.xml
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\postdeploy.sql
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\predeploy.sql
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\IPT102LasawangData.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangData\obj\Debug\IPT102LasawangData.pdb

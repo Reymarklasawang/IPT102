@@ -1,0 +1,12 @@
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\bin\Debug\net9.0\IPT102LasawangRepository.deps.json
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\bin\Debug\net9.0\IPT102LasawangRepository.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\bin\Debug\net9.0\IPT102LasawangRepository.pdb
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.csproj.AssemblyReference.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.AssemblyInfoInputs.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.AssemblyInfo.cs
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.csproj.CoreCompileInputs.cache
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\refint\IPT102LasawangRepository.dll
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\IPT102LasawangRepository.pdb
+D:\EulaticIPT102\IPT102LasawangSolution\IPT102LasawangRepository\obj\Debug\net9.0\ref\IPT102LasawangRepository.dll
